@@ -1,7 +1,6 @@
 /*
 
 	For reference only, the file is saved as .js for syntax highlighting purposes.
-	Next Stop https://learn.jquery.com/using-jquery-core/traversing/
 
 */
 
